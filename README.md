@@ -8,7 +8,6 @@
 - [NTBBloodBath/nvim.fnl](https://github.com/NTBBloodBath/nvim.fnl)
 - [ray-x/nvim](https://github.com/ray-x/nvim)
 - [Shadorain/shadovim](https://github.com/Shadorain/shadovim)
-- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
 
 ## Neovim distributions
 
@@ -16,6 +15,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 - [vhyrro/neorg-dev](https://github.com/vhyrro/neorg-dev)
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
 
 # Curators
 - [shift-d](https://github.com/shift-d)
