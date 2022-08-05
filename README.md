@@ -19,6 +19,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim)
+- [Abstract-IDE/Abstract](https://github.com/Abstract-Ide/Abstract)
 
 # Curators
 - [shift-d](https://github.com/shift-d)
