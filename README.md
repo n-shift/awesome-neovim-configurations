@@ -16,6 +16,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 - [vhyrro/neorg-dev](https://github.com/vhyrro/neorg-dev)
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 # Curators
 - [shift-d](https://github.com/shift-d)
